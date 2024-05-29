@@ -1,6 +1,7 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1716951530
+::res://::1716953253
 icon.svg::CompressedTexture2D::1878173771354911194::1716950841::1716950878::1::::<><>::
-::res://assets/::1716951496
-::res://assets/player/::1716951530
-player.png::CompressedTexture2D::4396780308958858629::1716951459::1716951530::1::::<><>::
+::res://scenes/::1716951496
+::res://scenes/player/::1716953227
+player.png::CompressedTexture2D::4396780308958858629::1716951459::1716953253::1::::<><>::
+player.tscn::PackedScene::5835008634571094782::1716953227::0::1::::<><>::
